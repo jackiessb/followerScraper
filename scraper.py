@@ -26,7 +26,7 @@ def seperateData(literal):
     # value = int(value)
 
     if ('K' in value):
-        print("Found you idiot.")
+        print("Found you")
 
     return value
 
